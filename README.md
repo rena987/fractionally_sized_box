@@ -1,8 +1,9 @@
 # fractionally_sized_box
 
-A new Flutter project.
+<img width="800" alt="Screen Shot 2022-07-01 at 11 20 11 AM" src="https://user-images.githubusercontent.com/47072485/176949342-c32366f4-b8c0-4338-870e-8f10364e7343.png">
 
 ## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
